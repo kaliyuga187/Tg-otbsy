@@ -1,2 +1,10 @@
-# Tg-otbsy
-Mass copy tracking analyser and organiser from profitable to not profitable and incorporates sc r eeeb and flash push notifications for alerts on positions 
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+```
